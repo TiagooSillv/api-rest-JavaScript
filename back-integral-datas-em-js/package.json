@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "date-fns": "^2.30.0"
+  },
+  "name": "back-integral-datas-em",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
